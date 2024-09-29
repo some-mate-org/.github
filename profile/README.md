@@ -11,7 +11,8 @@
 ---
 
 ### **2. SomeMate의 주요 기능**
-<img width="180" height="380" alt="스크린샷 2024-09-29 오후 12 47 42" src="https://github.com/user-attachments/assets/152ec33d-76af-4054-bdd2-999dcd373a2e">  <img width="180" height="380" alt="스크린샷 2024-09-29 오후 1 27 11" src="https://github.com/user-attachments/assets/adafbba1-1f62-4d8a-9787-0d8e8c2a858d">
+<img width="180" height="380" alt="스크린샷 2024-09-29 오후 12 46 53" src="https://github.com/user-attachments/assets/8ede4f52-336e-4916-85c3-bba78caf949c">
+  <img width="180" height="380" alt="스크린샷 2024-09-29 오후 1 27 11" src="https://github.com/user-attachments/assets/45ed17c4-7d14-4f32-8eee-6f4639f7a3c9">
 
 ### **1) 회원 관리 및 로그인 기능**
 
@@ -24,15 +25,14 @@
     - **아이디 유효성 검사:** 영문 또는 숫자 이외에는 입력 방지
 
 ### **2) 사용자 매칭 기능 (MBTI 기반)**
-<img width="180" height="380" alt="스크린샷 2024-09-29 오후 1 29 02" src="https://github.com/user-attachments/assets/7e05e3cd-d2cc-47dc-879a-a3757153184a">
-### **설명**: 사용자의 MBTI 유형을 기반으로 적합한 상대를 매칭
+- **설명**: 사용자의 MBTI 유형을 기반으로 적합한 상대를 매칭
+    - <img width="180" height="380" alt="스크린샷 2024-09-29 오후 1 29 02" src="https://github.com/user-attachments/assets/c4aabe87-15d0-470b-84c9-90ca7bda8d52">
 
 - **매칭 로직**: 연애 유형 설문을 통해 사용자의 MBTI를 도출하고, 성격 유형이 잘 맞는 상대를 추천하는 알고리즘 사용
 - **기능 특징**:
     - 사용자 MBTI 정보 저장 및 관리
     - MBTI 유형에 따른 이상적인 매칭 상대 추천
-    - <img width="180" height="380" alt="스크린샷 2024-09-29 오후 1 31 34" src="https://github.com/user-attachments/assets/501161ca-0350-47db-b039-1ef4dfce3695">
-
+    - <img width="180" height="380" alt="스크린샷 2024-09-29 오후 1 31 34" src="https://github.com/user-attachments/assets/2e7f1758-8a66-4c15-8ece-f5f8cd1daf77">
 ### **3) 개인 페이지 기능**
 
 - **설명**: 사용자가 로그인하면 자신의 등록된 정보를 확인할 수 있음
@@ -42,7 +42,7 @@
     - 새로운 사람과 매칭을 원할 경우, 매칭 재시도 기능 제공
 
 ### **4) 카카오톡 오픈채팅 기능**
-<img width="180" height="380" alt="스크린샷 2024-09-29 오후 1 33 24" src="https://github.com/user-attachments/assets/91be40a9-ad76-4fab-9324-eb66eba75b23">  <img width="180" height="380" alt="스크린샷 2024-09-29 오후 1 34 35" src="https://github.com/user-attachments/assets/632d2951-134b-48ec-b84b-23bae76af530">
+<img width="180" height="380" alt="스크린샷 2024-09-29 오후 1 33 24" src="https://github.com/user-attachments/assets/9dd5ae5e-c0fe-48ea-9a70-0f3a8c8f8f5a">  <img width="180" height="380" alt="스크린샷 2024-09-29 오후 1 34 35" src="https://github.com/user-attachments/assets/cb4ee5d5-2321-4d19-942f-784db52a8fcd">
 - **설명**: 매칭 성공 시 사용자가 입력한 카카오톡 오픈채팅방 URL을 통해 매칭 상대와 실시간으로 대화를 주고받을 수 있음
 - **주요 기능**:
     - **매칭 성공 시**: 사용자는 상대방의 개인 프로필 메세지와 카카오톡 오픈채팅방으로 연결되어 안전하게 대화를 시작할 수 있습니다.
